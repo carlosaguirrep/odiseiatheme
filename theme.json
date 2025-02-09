@@ -1,0 +1,59 @@
+{
+    "version": 2,
+    "settings": {
+        "layout": {
+            "contentSize": "800px",
+            "wideSize": "1300px"
+        },
+        "color": {
+            "palette": [
+                {
+                    "name": "Primary",
+                    "slug": "primary",
+                    "color": "#3563E9"
+                },
+                {
+                    "name": "Secondary",
+                    "slug": "secondary",
+                    "color": "#F7F9FE"
+                },
+                {
+                    "name": "Therd",
+                    "slug": "therd",
+                    "color": "#211C2D"
+                }
+            ]
+        },
+        "spacing": {
+            "padding": true,
+            "margin": true,
+            "spacingSizes": [
+                {
+                    "name": "Pequeño",
+                    "slug": "small",
+                    "size": "1rem"
+                },
+                {
+                    "name": "Mediano",
+                    "slug": "medium",
+                    "size": "2rem"
+                }
+            ]
+        },
+        "styles": {
+            "color": {
+                "background": "var(--wp--preset--color--white)",
+                "text": "var(--wp--preset--color--black)"
+            }
+        },
+        "typography": {
+            "fontFamilies": [
+                {
+                    "name": "System Font",
+                    "slug": "system-font",
+                    "fontFamily": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif"
+                }
+            ]
+        }
+    }
+}

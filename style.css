@@ -1,0 +1,22 @@
+/*
+Theme Name: OdiseIaTheme
+Theme URI: 
+Author: Carlos Ablerto Aguirre Pacheco
+Description: Theme FSE odiseia
+Version: 1.0
+License: GNU General Public License v2 or later
+Text Domain: odiseiatheme
+*/
+
+/* Reset básico */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.container {
+    padding: 0 20px;
+}
