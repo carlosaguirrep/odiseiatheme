@@ -8,3 +8,7 @@ add_action('wp_enqueue_scripts', 'mi_tema_fse_enqueue_styles');
 add_theme_support('post-thumbnails');
 add_theme_support('responsive-embeds');
 add_theme_support('editor-styles');
+add_theme_support( 'appearance-tools' );
+add_theme_support( 'border' );
+
+

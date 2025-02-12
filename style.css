@@ -7,16 +7,3 @@ Version: 1.0
 License: GNU General Public License v2 or later
 Text Domain: odiseiatheme
 */
-
-/* Reset básico */
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
-
-
-.container {
-    padding: 0 20px;
-}
